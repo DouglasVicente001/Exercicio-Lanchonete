@@ -1,0 +1,15 @@
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\bin\Debug\net6.0\ConsolesC#.exe
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\bin\Debug\net6.0\ConsolesC#.deps.json
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\bin\Debug\net6.0\ConsolesC#.runtimeconfig.json
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\bin\Debug\net6.0\ConsolesC#.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\bin\Debug\net6.0\ConsolesC#.pdb
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.csproj.AssemblyReference.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.AssemblyInfoInputs.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.AssemblyInfo.cs
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.csproj.CoreCompileInputs.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\refint\ConsolesC#.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.pdb
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ConsolesC#.genruntimeconfig.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\Cursos\ConsolesC#\obj\Debug\net6.0\ref\ConsolesC#.dll
